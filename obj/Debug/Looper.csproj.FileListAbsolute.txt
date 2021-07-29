@@ -1,0 +1,10 @@
+C:\Users\Professional\source\repos\Looper\Looper\bin\Debug\Looper.exe.config
+C:\Users\Professional\source\repos\Looper\Looper\bin\Debug\Looper.exe
+C:\Users\Professional\source\repos\Looper\Looper\bin\Debug\Looper.pdb
+C:\Users\Professional\source\repos\Looper\Looper\bin\Debug\log4net.dll
+C:\Users\Professional\source\repos\Looper\Looper\bin\Debug\log4net.xml
+C:\Users\Professional\source\repos\Looper\Looper\obj\Debug\Looper.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Looper\Looper\obj\Debug\Looper.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Looper\Looper\obj\Debug\Looper.csproj.CopyComplete
+C:\Users\Professional\source\repos\Looper\Looper\obj\Debug\Looper.exe
+C:\Users\Professional\source\repos\Looper\Looper\obj\Debug\Looper.pdb
